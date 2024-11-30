@@ -1,0 +1,38 @@
+{
+  "name": "Gia Hiếu❤️‍🩹✔️",
+  "ID": "100027625873896",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Tàn Tích Nether Cổ"
+  },
+  "fishBag": [
+    {
+      "ID": 1,
+      "name": "Crying Obsidian",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/tjJgtol.png"
+    },
+    {
+      "ID": 2,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 880,
+      "countdown": 3,
+      "countdownData": 1716401370188,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "01:04:37, 23/5/2024"
+}
